@@ -53,6 +53,7 @@ class Program
         int num1 = 0;
         int num2 = 1;
 
+        // Salida de datos - Parte #1
         Console.WriteLine(num1);
         Console.WriteLine(num2);
 
@@ -60,10 +61,25 @@ class Program
 
         for(int i = 0; i < operaciones; i++)
         {
+            // Salida de datos - Parte #2
             int resultado = num1 + num2;
             Console.WriteLine(resultado);
             num1 = num2;
             num2 = resultado;
+        }
+
+        // Problema #4 - Tablas de multiplicar
+
+        for(int i = 1; i <= 12; i++)
+        {
+            int factor_1 = i;
+            Console.WriteLine("Tabla del " + factor_1.ToString());
+            for(int j = 1; j <= 10; j++)
+            {
+                int factor_2 = j;
+                int result = factor_1 * factor_2;
+                Console.WriteLine(factor_1.ToString() + " x " + factor_2.ToString() + " = " + result.ToString());
+            }
         }
     }
 }
