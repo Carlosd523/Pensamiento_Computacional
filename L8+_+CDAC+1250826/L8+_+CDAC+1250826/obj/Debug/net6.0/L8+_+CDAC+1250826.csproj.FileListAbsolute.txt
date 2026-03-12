@@ -1,0 +1,15 @@
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/bin/Debug/net6.0/L8+_+CDAC+1250826
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/bin/Debug/net6.0/L8+_+CDAC+1250826.deps.json
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/bin/Debug/net6.0/L8+_+CDAC+1250826.runtimeconfig.json
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/bin/Debug/net6.0/L8+_+CDAC+1250826.dll
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/bin/Debug/net6.0/L8+_+CDAC+1250826.pdb
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/obj/Debug/net6.0/L8+_+CDAC+1250826.csproj.AssemblyReference.cache
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/obj/Debug/net6.0/L8+_+CDAC+1250826.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/obj/Debug/net6.0/L8+_+CDAC+1250826.AssemblyInfoInputs.cache
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/obj/Debug/net6.0/L8+_+CDAC+1250826.AssemblyInfo.cs
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/obj/Debug/net6.0/L8+_+CDAC+1250826.csproj.CoreCompileInputs.cache
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/obj/Debug/net6.0/L8+_+CDAC+1250826.dll
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/obj/Debug/net6.0/refint/L8+_+CDAC+1250826.dll
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/obj/Debug/net6.0/L8+_+CDAC+1250826.pdb
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/obj/Debug/net6.0/L8+_+CDAC+1250826.genruntimeconfig.cache
+/Users/carlosdanielangulocampos/Desktop/Laboratorios - Universidad/Pensamiento_Computacional/L8+_+CDAC+1250826/L8+_+CDAC+1250826/obj/Debug/net6.0/ref/L8+_+CDAC+1250826.dll
